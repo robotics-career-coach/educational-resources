@@ -1,6 +1,14 @@
-# Robotics Career Coach Cohort Program Educational Resources
+<p align="center">
+  <img src="assets/logo.png" alt="Robotics Career Coach" width="400">
+</p>
 
-Free, curated learning resources for the Robotics Career Coach (RCC) Cohort Program, covering robotics software, hardware, and tools. All resources link directly to free materials — no paywalls for core content.
+<p align="center">
+  <em>Helping individuals and organizations navigate the rapidly growing robotics industry.</em>
+</p>
+
+# Educational Resources
+
+A curated collection of free online tutorials, courses, textbooks, and documentation for anyone pursuing a career in robotics. These resources are gathered from across the web and cover topics ranging from ROS 2 and software engineering to computer vision, embedded systems, mechanical design, and machine learning. All links point to freely available materials to help learners build the skills they need without cost being a barrier.
 
 ## Topics
 
@@ -19,10 +27,12 @@ Free, curated learning resources for the Robotics Career Coach (RCC) Cohort Prog
 
 See the [Suggested Learning Path](learning-path.md) for a staged, week-by-week plan that takes learners from foundations through a capstone project.
 
-## A Note on MOOC Courses
+## A Note on Online Courses
 
 Several resources live on Coursera or edX. These can be **audited for free** (full access to videos and materials), but graded assignments and certificates require payment or financial aid. The audit option is noted wherever it applies.
 
 ## Contributing
 
-If you know of a free resource that should be listed here, open a pull request or raise an issue.
+If you know of a free resource that should be listed here, open a pull request or raise an issue. Please credit the original authors, instructors, and institutions that created and published the resource.
+
+We do our best to properly attribute every resource, but errors and omissions can happen. If you notice an incorrect or missing credit, please open a pull request with the correction, create an issue, or contact us at info@roboticscareercoach.com.

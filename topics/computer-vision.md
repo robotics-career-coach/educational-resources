@@ -8,11 +8,11 @@ Resources for image processing, OpenCV, and deep learning for vision — enablin
   https://docs.opencv.org/4.x/d9/df8/tutorial_root.html
   The official, authoritative tutorials covering core image processing, feature detection, and the ml/objdetect/video modules in C++ and Python.
 
-- **Stanford CS231n: Deep Learning for Computer Vision** — Stanford University
+- **Stanford CS231n: Deep Learning for Computer Vision** — Fei-Fei Li et al., Stanford University
   https://cs231n.github.io/
   Freely published course notes and assignments on CNNs, backpropagation, and training deep vision models; the gold-standard intro to deep learning for vision.
 
-- **Stanford CS231n Lecture Videos (Spring 2025)** — Stanford University
+- **Stanford CS231n Lecture Videos (Spring 2025)** — Fei-Fei Li, Ehsan Adeli, Justin Johnson, Zane Durante & Tiange Xiang, Stanford University
   https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16
   The recent recorded lecture series accompanying the CS231n notes.
 

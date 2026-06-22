@@ -20,15 +20,15 @@ Resources for introductory ML, reinforcement learning, and ML for perception —
   https://www.davidsilver.uk/teaching/
   The classic free RL video-lecture series and slides, recommended as a first RL course.
 
-- **Robotics: Perception** — University of Pennsylvania (Coursera, free to audit)
+- **Robotics: Perception** — Kostas Daniilidis & Jianbo Shi, University of Pennsylvania (Coursera, free to audit)
   https://www.coursera.org/learn/robotics-perception
   Teaches how robot-camera images become 3D information for grasping, visual odometry, and localization (camera models, pose estimation, multi-view geometry).
 
-- **Robot Learning (CS 4756)** — Cornell University (course page, free)
+- **Robot Learning (CS 4756)** — Kuan Fang, Cornell University (course page, free)
   https://www.cs.cornell.edu/courses/cs4756/2026sp/
   Covers robot perception (state estimation, object detection, mapping) as probabilistic inference and robot decision-making (self-driving, manipulation, assistive robots) as Markov Decision Problems.
 
-- **Practical Deep Learning for Coders** — fast.ai
+- **Practical Deep Learning for Coders** — fast.ai (Jeremy Howard)
   https://course.fast.ai/
   A strong applied ML on-ramp for perception tasks (also listed under Computer Vision).
 

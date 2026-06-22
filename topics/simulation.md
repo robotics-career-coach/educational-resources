@@ -28,6 +28,10 @@ Resources for Gazebo, Isaac Sim, and other robot simulators — test and iterate
   https://underactuated.csail.mit.edu/
   Continuously-updated free course notes with interactive, Drake-based simulation examples for dynamics and control. Lecture videos available on YouTube. (Original 6.832 OCW materials at https://ocw.mit.edu/courses/6-832-underactuated-robotics-spring-2009/ are dated; prefer the continuously-updated notes.)
 
+- **Introduction to Aerial Robotics (ELEC 5660)** — Shaojie Shen, HKUST
+  https://github.com/HKUST-Aerial-Robotics/HKUST-ELEC5660-Introduction-to-Aerial-Robotics
+  Open-source course notes, lab tutorials, and project Docker files covering rigid-body dynamics, control, trajectory planning, sensor fusion, and vision-based state estimation for autonomous aerial robots.
+
 ## Notes
 
 - Gazebo Classic (Gazebo 11) and all other versions of Gazebo Classic reached official end-of-life on January 31, 2025. OSRF now supports only modern Gazebo (Harmonic LTS, supported until September 2028). Direct efforts to modern Gazebo paired with ROS 2 Jazzy, not Gazebo Classic.
