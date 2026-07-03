@@ -28,6 +28,10 @@ Resources for introductory ML, reinforcement learning, and ML for perception —
   https://www.cs.cornell.edu/courses/cs4756/2026sp/
   Covers robot perception (state estimation, object detection, mapping) as probabilistic inference and robot decision-making (self-driving, manipulation, assistive robots) as Markov Decision Problems.
 
+- **Robot Learning: From Fundamentals to Foundation Models** — Oier Mees, ETH Zurich (Computer Vision and Geometry Group; course page, free)
+  https://cvg.ethz.ch/lectures/Robot-Learning/
+  An advanced course spanning imitation learning, RL, and policy optimization through to Vision-Language-Action models, diffusion-based planning, transformers, world models, and generalist robot policies. Lecture slides and full YouTube recordings (including industry guest lectures from Google DeepMind, Meta, and NVIDIA) are freely available, along with a GitHub repo of coding assignments.
+
 - **Practical Deep Learning for Coders** — fast.ai (Jeremy Howard)
   https://course.fast.ai/
   A strong applied ML on-ramp for perception tasks (also listed under Computer Vision).
