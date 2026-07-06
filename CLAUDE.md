@@ -11,6 +11,7 @@ A curated collection of **free** online robotics educational resources (tutorial
 - **[README.md](README.md)** — Landing page with topic index and contribution guidelines
 - **[learning-path.md](learning-path.md)** — Staged week-by-week learning plan (Foundations → Core Robotics → Specializations → Capstone)
 - **[topics/](topics/)** — One Markdown file per topic area (ROS 2, software engineering, computer vision, embedded systems, mechanical engineering & CAD, ML & AI, cloud & DevOps, simulation)
+- **[.claude/skills/add-resource/](.claude/skills/add-resource/SKILL.md)** — Claude Code skill (`/add-resource <url>`) that fetches a resource, drafts its citation/summary, checks it's free and non-duplicate, and adds it to the right `topics/` file
 
 ## Content Conventions
 

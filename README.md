@@ -14,6 +14,7 @@ A curated collection of free online tutorials, courses, textbooks, and documenta
 
 | Topic | Description |
 |-------|-------------|
+| [General Robotics](topics/general-robotics.md) | Foundational textbooks spanning mechanisms, sensors, actuators, and algorithms |
 | [ROS 2](topics/ros2.md) | The standard robotics middleware — nodes, topics, services, and client libraries |
 | [Software Engineering](topics/software-engineering.md) | Python, C++, Git/GitHub, and CI/CD fundamentals |
 | [Computer Vision](topics/computer-vision.md) | Image processing, OpenCV, and deep learning for vision |
