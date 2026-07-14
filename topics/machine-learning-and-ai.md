@@ -28,6 +28,10 @@ Resources for introductory ML, reinforcement learning, and ML for perception —
   https://www.cs.cornell.edu/courses/cs4756/2026sp/
   Covers robot perception (state estimation, object detection, mapping) as probabilistic inference and robot decision-making (self-driving, manipulation, assistive robots) as Markov Decision Problems.
 
+- **Robot Learning (CSCI 699)** — Erdem Bıyık, LIRA Lab, University of Southern California (course page, free)
+  https://liralab.usc.edu/csci699/
+  A PhD-level seminar at the intersection of robotics and ML, covering reinforcement learning, imitation/inverse RL, meta-learning, sim-to-real transfer, multi-agent learning, and safe/robust learning; assumes prior ML and robotics/control coursework.
+
 - **Practical Deep Learning for Coders** — fast.ai (Jeremy Howard)
   https://course.fast.ai/
   A strong applied ML on-ramp for perception tasks (also listed under Computer Vision).

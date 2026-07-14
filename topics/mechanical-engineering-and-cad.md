@@ -31,3 +31,7 @@ Resources for 3D modeling, parametric design, and the mechanical fundamentals be
 - **Feedback Systems: An Introduction for Scientists and Engineers (2nd ed.)** — Karl Johan Åström & Richard M. Murray, Princeton University Press, 2021
   https://fbswiki.org/wiki/index.php/Feedback_Systems:_An_Introduction_for_Scientists_and_Engineers
   A free, Creative-Commons-licensed textbook on feedback control theory (stability, frequency-domain design, state-space methods) — the mathematical foundation for robot controllers.
+
+- **Robot Academy** — Peter Corke, Queensland University of Technology (with the Australian Centre for Robotic Vision and IEEE RAS)
+  https://robotacademy.net.au/
+  Free university-level video lessons and full courses spanning robot kinematics, dynamics, and robotic vision, ranging from beginner to advanced.
