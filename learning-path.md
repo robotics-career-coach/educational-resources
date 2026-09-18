@@ -25,6 +25,7 @@ Layer in simulation and mechanical fundamentals:
 Split into focus tracks:
 - **Vision:** [CS231n](https://cs231n.github.io/) + [OpenCV docs](https://docs.opencv.org/4.x/d9/df8/tutorial_root.html)
 - **ML/RL:** [Andrew Ng ML Specialization](https://www.coursera.org/specializations/machine-learning-introduction) then [Sutton & Barto](http://incompleteideas.net/book/the-book-2nd.html) + [Spinning Up](https://spinningup.openai.com/en/latest/)
+- **Controls:** [Classical Control Theory](https://www.youtube.com/playlist?list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk) then [Control Bootcamp](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m) for state-space methods
 - **Embedded:** [Arduino docs](https://docs.arduino.cc/language-reference/) + [CU Boulder courses](https://www.coursera.org/learn/introduction-embedded-systems)
 - **DevOps:** [Docker guides](https://docs.docker.com/guides/gha/) + [GitHub Actions](https://skills.github.com/)
 

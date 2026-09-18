@@ -14,12 +14,14 @@ A curated collection of free online tutorials, courses, textbooks, and documenta
 
 | Topic | Description |
 |-------|-------------|
+| [General Robotics](topics/general-robotics.md) | Foundational textbooks spanning mechanisms, sensors, actuators, and algorithms |
 | [ROS 2](topics/ros2.md) | The standard robotics middleware — nodes, topics, services, and client libraries |
 | [Software Engineering](topics/software-engineering.md) | Python, C++, Git/GitHub, and CI/CD fundamentals |
 | [Computer Vision](topics/computer-vision.md) | Image processing, OpenCV, and deep learning for vision |
 | [Embedded Systems](topics/embedded-systems.md) | Microcontrollers, firmware, real-time systems, and serial comms |
 | [Mechanical Engineering & CAD](topics/mechanical-engineering-and-cad.md) | 3D modeling, parametric design, and mechanical fundamentals |
 | [Machine Learning & AI](topics/machine-learning-and-ai.md) | Intro ML, reinforcement learning, and ML for perception |
+| [Controls & Dynamics](topics/controls-and-dynamics.md) | Classical/nonlinear/optimal control, convex optimization, and dynamical systems |
 | [Cloud & DevOps](topics/cloud-and-devops.md) | Docker, cloud deployment, and GitHub Actions |
 | [Simulation](topics/simulation.md) | Gazebo, Isaac Sim, and other robot simulators |
 
