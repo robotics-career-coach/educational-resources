@@ -21,6 +21,7 @@ A curated collection of free online tutorials, courses, textbooks, and documenta
 | [Embedded Systems](topics/embedded-systems.md) | Microcontrollers, firmware, real-time systems, and serial comms |
 | [Mechanical Engineering & CAD](topics/mechanical-engineering-and-cad.md) | 3D modeling, parametric design, and mechanical fundamentals |
 | [Machine Learning & AI](topics/machine-learning-and-ai.md) | Intro ML, reinforcement learning, and ML for perception |
+| [Controls & Dynamics](topics/controls-and-dynamics.md) | Classical/nonlinear/optimal control, convex optimization, and dynamical systems |
 | [Cloud & DevOps](topics/cloud-and-devops.md) | Docker, cloud deployment, and GitHub Actions |
 | [Simulation](topics/simulation.md) | Gazebo, Isaac Sim, and other robot simulators |
 

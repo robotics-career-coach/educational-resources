@@ -78,6 +78,10 @@ Resources for Gazebo, Isaac Sim, MuJoCo, and other robot simulators — test and
   https://cs224r.stanford.edu/
   Applied deep RL with emphasis on robotics and motor control (imitation learning, offline RL, goal-conditioned RL, meta-RL); assignments typically use MuJoCo continuous-control environments. Intermediate/advanced.
 
+- **CS 287: Advanced Robotics** — Pieter Abbeel, UC Berkeley
+  https://people.eecs.berkeley.edu/~pabbeel/cs287-fa13/
+  Graduate course on the math and algorithms underlying robotic systems: MDPs, trajectory optimization, motion planning (PRM, RRT, A*), state estimation (Kalman/particle filters, SLAM), and inverse optimal control. Free lecture slides and problem sets with starter code; no textbook required. Advanced/graduate level — assumes probability, linear algebra, and proof-based math.
+
 - **tayalmanan28/MuJoCo-Tutorial (GitHub)** — Manan Tayal
   https://github.com/tayalmanan28/MuJoCo-Tutorial
   Step-by-step Jupyter notebooks (run in Colab or locally) to get started with the modern open-source MuJoCo Python package.

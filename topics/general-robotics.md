@@ -7,3 +7,7 @@ Broad textbooks covering the computational and mechanical principles of robots �
 - **Introduction to Autonomous Robots: Mechanisms, Sensors, Actuators, and Algorithms** — Nikolaus Correll, Bradley Hayes, Christoffer Heckman & Alessandro Roncone (University of Colorado Boulder), MIT Press, 2022 (source CC-BY-NC-ND)
   https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots
   A broad, advanced-undergraduate/graduate-level textbook covering the computational principles behind robot mechanisms, sensors, actuators, and control/planning algorithms. The full LaTeX source (chapters, figures, homework) is free on GitHub for non-commercial use; there's no hosted free PDF (posting a compiled copy online isn't permitted under the license), so readers compile their own via Overleaf or local LaTeX.
+
+- **CS223A: Introduction to Robotics** — Oussama Khatib, Stanford University (Stanford Engineering Everywhere, free)
+  https://see.stanford.edu/Course/CS223A
+  Foundational course on robot modeling, kinematics, dynamics, and control — spatial descriptions, manipulator kinematics, Jacobians, trajectory planning, and control strategies. Advanced-undergrad/graduate level; includes 16 full video lectures, lecture handouts, and 6 homework sets, all freely downloadable with no login required.

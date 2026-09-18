@@ -24,13 +24,21 @@ Resources for introductory ML, reinforcement learning, and ML for perception —
   https://www.coursera.org/learn/robotics-perception
   Teaches how robot-camera images become 3D information for grasping, visual odometry, and localization (camera models, pose estimation, multi-view geometry).
 
-- **Robot Learning (CS 4756)** — Kuan Fang, Cornell University (course page, free)
+- **SLAM Course (2013)** — Cyrill Stachniss, University of Freiburg
+  https://www.youtube.com/playlist?list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_
+  The classic free video lecture series on Simultaneous Localization and Mapping — Bayes filters, EKF/particle-filter SLAM, graph-based SLAM, and occupancy mapping. Intermediate/advanced.
+
+- **Robot Learning (CS 4756/5756)** — Kuan Fang, Cornell University (course page, free)
   https://www.cs.cornell.edu/courses/cs4756/2026sp/
-  Covers robot perception (state estimation, object detection, mapping) as probabilistic inference and robot decision-making (self-driving, manipulation, assistive robots) as Markov Decision Problems.
+  Senior-undergrad/grad-level course on deploying robots via ML: imitation and interactive learning, model-based (MPC) and model-free reinforcement learning, and perception as probabilistic inference and deep learning for 2D/3D vision, plus frontiers like LLM-based planning and offline RL. Lecture slides and six coding assignments (hosted on GitHub) are free; assumes linear algebra, probability, and a prior ML course.
 
 - **Robot Learning: From Fundamentals to Foundation Models** — Oier Mees, ETH Zurich (Computer Vision and Geometry Group; course page, free)
   https://cvg.ethz.ch/lectures/Robot-Learning/
   An advanced course spanning imitation learning, RL, and policy optimization through to Vision-Language-Action models, diffusion-based planning, transformers, world models, and generalist robot policies. Lecture slides and full YouTube recordings (including industry guest lectures from Google DeepMind, Meta, and NVIDIA) are freely available, along with a GitHub repo of coding assignments.
+
+- **Introduction to Robot Learning (16-831)** — Guanya Shi et al., Carnegie Mellon University (course page, free)
+  https://16-831-s24.github.io/
+  Graduate-level course on sequential decision-making for robots: model-based/model-free/offline RL, imitation learning (behavior cloning, DAgger, inverse RL), visual learning for decision-making, generative and language models, and sim-to-real transfer.
 
 - **Practical Deep Learning for Coders** — fast.ai (Jeremy Howard)
   https://course.fast.ai/
