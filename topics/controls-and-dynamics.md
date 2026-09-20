@@ -16,6 +16,10 @@ Resources for classical, state-space, nonlinear, and optimal control, plus the o
   https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m
   A free video series on modern, state-space control: linear systems, controllability/observability, pole placement, LQR, Kalman filtering, and an introduction to nonlinear and data-driven control. A natural next step after classical control.
 
+- **Making Decisions: Robot Control, Planning, and Learning (16-299)** — Chris Atkeson, Carnegie Mellon University
+  https://www.cs.cmu.edu/~cga/controls-intro/
+  A free upper-level undergraduate course spanning robot dynamics, PID/LQR control, state estimation and Kalman filters, frequency-domain analysis, path planning (A*, RRT), dynamic programming, and reinforcement learning — a broader control-to-decision-making arc than the more narrowly control-focused entries above, with both simulation and physical-robot components.
+
 - **Nonlinear Control (Lectures on Nonlinear Systems)** — Jean-Jacques Slotine, MIT
   http://web.mit.edu/nsl/www/videos/lectures.html
   A free, 20-lecture graduate series on nonlinear control: Lyapunov stability, sliding mode and adaptive control, feedback linearization, and contraction analysis. Advanced/graduate level; pairs with Slotine & Li's *Applied Nonlinear Control*.

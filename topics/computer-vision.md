@@ -27,3 +27,7 @@ Resources for image processing, OpenCV, and deep learning for vision — enablin
 - **Practical Deep Learning for Coders** — fast.ai (Jeremy Howard)
   https://course.fast.ai/
   A free, code-first course (and [free online book](https://github.com/fastai/fastbook)) teaching deep learning for computer vision and other domains using PyTorch.
+
+- **16.485: Visual Navigation for Autonomous Vehicles (VNAV)** — Luca Carlone et al., MIT
+  https://vnav.mit.edu/
+  A free graduate-level course on the mathematical foundations of visual navigation — geometry, optimization, state estimation, and SLAM/visual-odometry algorithms — paired with 9+ hands-on ROS/ROS 2 + C++ lab assignments. Materials (slides, notes, labs, code) are CC BY 4.0 and freely downloadable with no login; current (ROS 2/Ubuntu 22.04) and archived (ROS 1/Ubuntu 20.04) versions are both available. An archived lecture-video version also exists on MIT OpenCourseWare.
